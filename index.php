@@ -1,0 +1,1 @@
+<?php echo ' bonjour Monsieur le président';
